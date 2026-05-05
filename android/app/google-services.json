@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831131224055",
+    "project_id": "ecommercemad-f2777",
+    "storage_bucket": "ecommercemad-f2777.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831131224055:android:f9714e5b0ce6dceb3250f2",
+        "android_client_info": {
+          "package_name": "com.example.labapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezRXE__m9DLUYYjP2GRF-tmU8S_4VdgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
